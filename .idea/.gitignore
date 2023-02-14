@@ -7,10 +7,3 @@
 /dataSources/
 /dataSources.local.xml
 
-# IntelliJ
-.idea/
-
-# gradle
-.gradle
-build/
-settings.gradle
